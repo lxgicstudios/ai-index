@@ -1,7 +1,7 @@
 {
   "name": "@lxgicstudios/ai-index",
   "version": "1.0.0",
-  "description": "Suggest database indexes from query patterns using AI",
+  "description": "AI-powered index file generator - barrel exports and module organization with GPT",
   "main": "dist/index.js",
   "bin": {
     "ai-index": "dist/cli.js"
@@ -9,7 +9,22 @@
   "scripts": {
     "build": "tsc"
   },
-  "keywords": ["database", "index", "performance", "sql", "ai", "cli", "optimization"],
+  "keywords": [
+    "ai",
+    "openai",
+    "gpt",
+    "index",
+    "barrel",
+    "exports",
+    "module",
+    "developer-tools",
+    "cli",
+    "automation",
+    "typescript",
+    "nodejs",
+    "imports",
+    "organization"
+  ],
   "license": "MIT",
   "dependencies": {
     "commander": "^12.1.0",
