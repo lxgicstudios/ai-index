@@ -3,6 +3,9 @@
 [![npm version](https://img.shields.io/npm/v/%40lxgicstudios%2Fai-index.svg)](https://www.npmjs.com/package/@lxgicstudios/ai-index)
 [![npm downloads](https://img.shields.io/npm/dm/%40lxgicstudios%2Fai-index.svg)](https://www.npmjs.com/package/@lxgicstudios/ai-index)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![GitHub stars](https://img.shields.io/github/stars/lxgic-studios/ai-index)](https://github.com/lxgic-studios/ai-index/stargazers)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5.0+-blue)](https://www.typescriptlang.org/)
+
 
 
 Analyze your query patterns and get smart database index suggestions. Tells you exactly what to create and why.
