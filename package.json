@@ -35,17 +35,17 @@
   ],
   "author": "LXGIC Studios",
   "license": "MIT",
-  "homepage": "https://github.com/LXGIC-Studios/@lxgicstudios/ai-index#readme",
+  "homepage": "https://github.com/lxgicstudios/ai-index#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/LXGIC-Studios/ai-index"
+    "url": "git+https://github.com/lxgicstudios/ai-index.git"
   },
   "bugs": {
-    "url": "https://github.com/LXGIC-Studios/@lxgicstudios/ai-index/issues"
+    "url": "https://github.com/lxgicstudios/ai-index/issues"
   },
   "funding": {
     "type": "github",
-    "url": "https://github.com/sponsors/LXGIC-Studios"
+    "url": "https://github.com/sponsors/lxgicstudios"
   },
   "engines": {
     "node": ">=18.0.0"
