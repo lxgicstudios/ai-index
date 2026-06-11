@@ -16,7 +16,7 @@
 
 # AI Index
 
-solve specific development challenges with AI-powered insights.
+AI-powered barrel export generator — index files, module re-exports, and import organization. Works with Claude, Cursor, GPT, Copilot.
 
 [![npm downloads](https://img.shields.io/npm/d/ai-index.svg?style=for-the-badge&logo=npm&label=downloads)](https://npmjs.com/package/ai-index)
 [![GitHub stars](https://img.shields.io/github/stars/LXGIC-Studios/ai-index?style=for-the-badge&logo=github&label=stars)](https://github.com/LXGIC-Studios/ai-index)
@@ -24,9 +24,17 @@ solve specific development challenges with AI-powered insights.
 
 </div>
 
-> AI-powered index file generator - barrel exports and module organization with GPT.
+> AI-powered barrel export generator — index files and module organization with GPT.
 
-## 🚀 Features
+## 🤖 Works With
+
+| AI Assistant | Support |
+|-------------|---------|
+| 🤖 **Claude / Claude Code** | ✅ Full |
+| 🔵 **Cursor** | ✅ Full |
+| 💚 **GPT / ChatGPT** | ✅ Full |
+| ⚡ **GitHub Copilot** | ✅ Full |
+| 🧩 **MCP Servers** | ✅ Compatible |## 🚀 Features
 
 - Feature 1
 - Feature 2
