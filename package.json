@@ -8,7 +8,7 @@
     "ai-index": "dist/cli.js"
   },
   "bugs": {
-    "url": "https://github.com/lxgicstudios/ai-index/issues"
+    "url": "https://github.com/lxgicstudios/npm-tools/issues"
   },
   "dependencies": {
     "commander": "^12.1.0",
@@ -31,26 +31,13 @@
     "type": "github",
     "url": "https://github.com/sponsors/LXGIC-Studios"
   },
-  "homepage": "https://github.com/lxgicstudios/ai-index#readme",
+  "homepage": "https://github.com/lxgicstudios/npm-tools/tree/main/ai-index",
   "keywords": [
-    "2026-standards",
-    "AI-optimized",
-    "AI-powered",
-    "automation",
-    "best-practices",
-    "cli",
-    "developer-tools",
-    "modern-seo",
-    "performance",
-    "seo-tools",
-    "technical-seo",
-    "utility",
-    "web-optimization",
-    "lxgic",
-    "core-update-ready",
-    "google-ai-overviews",
-    "eeat-seo",
-    "june-2026-update"
+    "file-index",
+    "search",
+    "directory-listing",
+    "navigation",
+    "sitemap"
   ],
   "license": "MIT",
   "main": "dist/index.js",
@@ -61,7 +48,8 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/LXGIC-Studios/npm-tools/tree/main/ai-index"
+    "url": "git+https://github.com/lxgicstudios/npm-tools.git",
+    "directory": "ai-index"
   },
   "scripts": {
     "build": "tsc"
