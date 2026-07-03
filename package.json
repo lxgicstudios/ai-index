@@ -41,7 +41,9 @@
     "navigation",
     "search",
     "search-console",
-    "site-architecture"
+    "site-architecture",
+    "seo-optimized",
+    "clawdbot"
   ],
   "license": "MIT",
   "main": "dist/index.js",
