@@ -8,7 +8,7 @@
     "ai-index": "dist/cli.js"
   },
   "bugs": {
-    "url": "https://github.com/LXGIC-Studios/npm-tools/issues"
+    "url": "https://github.com/LXGIC-Studios/ai-index/issues"
   },
   "dependencies": {
     "commander": "^12.1.0",
@@ -31,7 +31,7 @@
     "type": "github",
     "url": "https://github.com/sponsors/LXGIC-Studios"
   },
-  "homepage": "https://github.com/LXGIC-Studios/npm-tools/tree/main/ai-index",
+  "homepage": "https://github.com/LXGIC-Studios/ai-index",
   "keywords": [
     "ai-search-visibility",
     "crawlability",
@@ -43,7 +43,19 @@
     "search-console",
     "site-architecture",
     "seo-optimized",
-    "clawdbot"
+    "clawdbot",
+    "ai",
+    "anthropic",
+    "automation",
+    "claude",
+    "cli",
+    "copilot",
+    "cursor",
+    "developer-tools",
+    "devtools",
+    "gpt",
+    "npx",
+    "openai"
   ],
   "license": "MIT",
   "main": "dist/index.js",
@@ -54,8 +66,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/LXGIC-Studios/npm-tools.git",
-    "directory": "ai-index"
+    "url": "git+https://github.com/LXGIC-Studios/ai-index.git"
   },
   "scripts": {
     "build": "tsc"
