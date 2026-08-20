@@ -47,10 +47,7 @@
     "devtools",
     "directory-listing",
     "file-index",
-    "gpt",
-    "typescript",
-    "javascript",
-    "nodejs"
+    "gpt"
   ],
   "license": "MIT",
   "main": "dist/index.js",
